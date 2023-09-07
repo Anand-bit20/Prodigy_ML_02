@@ -10,7 +10,7 @@ This project implements a K-means clustering algorithm to segment customers base
 - [Usage](#usage)
 - [Methodology](#methodology)
 - [Results](#results)
-- [License](#license)
+
 
 ## Dataset
 
